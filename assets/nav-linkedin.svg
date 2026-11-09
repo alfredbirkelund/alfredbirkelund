@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31" role="img" aria-label="LINKEDIN">
+<path fill="#12142b" d="M0 0h88v31H0z"/>
+<path fill="#ece6dc" d="M1 1h86v1H1zM1 1h1v28H1z"/>
+<path fill="#46508f" d="M2 29h85v1H2zM86 2h1v27h-1z"/>
+<path fill="#eeebf2" d="M3 3h82v24H3z"/>
+<path fill="#a9a3cf" d="M3 25h82v2H3z"/>
+<g fill="#a63d2c" transform="translate(9.88264705882353,7.117647058823529) scale(0.8823529411764706)"><path d="M1 1h17v17H1z"/><circle cx="5" cy="5" r="1.4" fill="#eeebf2"/><path d="M4 8h2v7H4zM8 8h2v1c2-2 5-1 5 2v4h-2v-4c0-2-3-2-3 0v4H8z" fill="#eeebf2"/></g>
+<g fill="#1c1f3a"><g transform="translate(29.845,18.990000000000002) scale(0.01,-0.01)"><path d="M92 0V698H243V123H543V0Z" transform="translate(0,0)"/><path d="M75 0V111H225V587H75V698H525V587H375V111H525V0Z" transform="translate(600,0)"/><path d="M200 464H189V0H61V698H241L400 234H411V698H539V0H359Z" transform="translate(1200,0)"/><path d="M280 291 218 204V0H68V698H218V406H226L302 522L425 698H593L384 403L603 0H434Z" transform="translate(1800,0)"/><path d="M80 0V698H526V575H230V415H516V292H230V123H526V0Z" transform="translate(2400,0)"/><path d="M64 698H289Q428 698 497.0 608.5Q566 519 566 349Q566 179 497.0 89.5Q428 0 289 0H64ZM279 118Q408 118 408 286V413Q408 580 279 580H212V118Z" transform="translate(3000,0)"/><path d="M75 0V111H225V587H75V698H525V587H375V111H525V0Z" transform="translate(3600,0)"/><path d="M200 464H189V0H61V698H241L400 234H411V698H539V0H359Z" transform="translate(4200,0)"/></g></g>
+</svg>
